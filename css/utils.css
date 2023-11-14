@@ -1,0 +1,8 @@
+
+.border {
+    border: 1.5px solid transparent;
+}
+.border:hover {
+    border: 1.6px solid white;
+    border-width: 90%;
+}
